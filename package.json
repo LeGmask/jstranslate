@@ -1,5 +1,5 @@
 {
-  "name": "jstranslate",
+  "name": "@legmask/jstranslate",
   "version": "0.1.0",
   "description": "This package permit to call the free google translate api easly.",
   "main": "jstranslate.js",
