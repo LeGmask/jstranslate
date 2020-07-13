@@ -4,7 +4,8 @@
   "description": "This package permit to call the free google translate api easly.",
   "main": "jstranslate.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "git push && npm publish --access=public"
   },
   "keywords": [
     "translate",
