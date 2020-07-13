@@ -4,8 +4,8 @@ This is the official repo for the jsTranslate node package. This package permit 
 
 ### How use jstranslate ?
 
-- first install jstranslate by running the command :
-  `npm i --save jsTranslate`
+- first install jstranslate in your project by running the command :
+  `npm add --save jsTranslate`
 
 - secondly you must import jsTranslate :
 
