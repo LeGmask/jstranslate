@@ -1,6 +1,6 @@
 {
   "name": "jstranslate",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "This package permit to call the free google translate api easly.",
   "main": "jstranslate.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "google",
     "free"
   ],
+  "repository": "legmask/jstranslate",
   "author": "Evann DREUMONT",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
