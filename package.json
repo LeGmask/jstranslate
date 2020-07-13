@@ -1,0 +1,16 @@
+{
+  "name": "jstranslate",
+  "version": "1.0.0",
+  "description": "This package permit to call the free google translate api easly.",
+  "main": "jstranslate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translate",
+    "google",
+    "free"
+  ],
+  "author": "Evann DREUMONT",
+  "license": "MIT"
+}
