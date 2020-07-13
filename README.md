@@ -5,12 +5,12 @@ This is the official repo for the jsTranslate node package. This package permit 
 ### How use jstranslate ?
 
 - first install jstranslate in your project by running the command :
-  `npm add --save jsTranslate`
+  `npm add --save @legmask/jsTranslate`
 
 - secondly you must import jsTranslate :
 
 ```js
-const jsTranslate = require("jstranslate");
+const jsTranslate = require("@legmask/jstranslate");
 ```
 
 - After that you could simply call the jsTranslate module like that (for a working exemple see exemple.js):
