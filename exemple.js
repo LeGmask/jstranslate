@@ -1,4 +1,4 @@
-const jsTranslate = require("jsTranslate");
+const jsTranslate = require("jstranslate");
 
 return jsTranslate("auto", "French", "Hello world, I'm JsTranslate").then(
   function (response) {
